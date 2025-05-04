@@ -8,7 +8,7 @@ tqdm
 ipykernel
 shap
 jupyter
-
+tensorflow
 
 
 
